@@ -10,6 +10,7 @@ This is an template for people **who need automate publish his/her book to the I
 
 - Base on Gitbook legacy
 - No Code Need (Just some config need you change)
+- Speed Build (Cache npm)
 - Every change will be publish to website
 - Every tag will be publish by File (just like pdf, mobi, epub)
 - No git needed
@@ -34,6 +35,16 @@ This is an template for people **who need automate publish his/her book to the I
 2. Click **"Create a new Release"** or **"Draft a new Release"**
 3. set a version, title, and description.
 4. save, and wait for new pdf,mobi,epub.
+
+## Changelog
+
+### v1.0.0
+
+1. template init
+2. github pages deploy
+3. github release deploy
+4. npm speed up 
+5. publish a demo
 
 ## LICENSE
 
