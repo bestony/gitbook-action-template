@@ -4,6 +4,7 @@
 
 This is an template for people **who need automate publish his/her book to the Internet**.
 
+**[DEMO](https://bestony.com/gitbook-action-template/)**|**HOWTO**|**GUIDE**
 
 ## Feature
 
