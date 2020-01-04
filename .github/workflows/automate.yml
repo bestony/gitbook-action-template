@@ -37,12 +37,11 @@ jobs:
           gitbook mobi ./ ./book/book.mobi
     
       - name: deploy to pages
-        uses: crazy-max/ghaction-github-pages@v1.2.5
-        with:
-          build_dir: build  
-        #   fqdn:  test.com
+        uses: peaceiris/actions-gh-pages@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./build
       - name: send to release
         uses: fnkr/github-action-ghr@v1
         if: startsWith(github.ref, 'refs/tags/')
