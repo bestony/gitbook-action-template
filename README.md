@@ -6,6 +6,8 @@ This is an template for people **who need automate publish his/her book to the I
 
 **[DEMO](https://bestony.com/gitbook-action-template/)**|**HOWTO**|**GUIDE**
 
+> IF YOU WANT TO USE THIS TEMPLATE, BUT DON'T WANT TO LEARN HOW TO USE, YOU CAN BUY MY SERVICE WITH MY EAMIL xiqingongzi@gmail.com with $20.
+
 ## Feature
 
 - Base on Gitbook legacy
